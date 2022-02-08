@@ -14,4 +14,5 @@ weather app
 * when a user views furture weather conditions they are showed a 5-day forecast that displays the date, an icon representation of weather conditions, and the temperture and wind speed and humidity.
 * when a user clicks on a city in the search history then they are presented with current and future condiitons for that city. 
 
-[link]()
+[link](https://floki-themad.github.io/RainorShine/)
+[Repo](https://github.com/Floki-themad/RainorShine)
